@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109129125155",
+    "project_id": "signin-signup-ac365",
+    "storage_bucket": "signin-signup-ac365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109129125155:android:fd84b6549b64978b4f5096",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm-eDOhwKoN2AWe2WK-QEU8om_2tbKM08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
